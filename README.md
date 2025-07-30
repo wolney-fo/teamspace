@@ -1,6 +1,26 @@
-# TeamSpace 🚀
+# TeamSpace
 
 A comprehensive **Next.js SaaS boilerplate** with built-in multi-tenancy, authentication, and Role-Based Access Control (RBAC). Perfect for building team collaboration platforms, project management tools, or any multi-organizational SaaS application.
+
+## Table of Contents
+
+- [TeamSpace](#teamspace)
+  - [Table of Contents](#table-of-contents)
+  - [✨ Features](#-features)
+    - [🔐 Authentication](#-authentication)
+    - [🏢 Organizations](#-organizations)
+    - [📨 Team Invitations](#-team-invitations)
+    - [👥 Member Management](#-member-management)
+    - [📁 Project Management](#-project-management)
+    - [💰 Billing Integration](#-billing-integration)
+  - [🛡️ Role-Based Access Control (RBAC)](#️-role-based-access-control-rbac)
+    - [Available Roles](#available-roles)
+    - [Permissions Matrix](#permissions-matrix)
+  - [🚀 Quick Start](#-quick-start)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ## ✨ Features
 
@@ -120,4 +140,4 @@ pnpm run dev
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
